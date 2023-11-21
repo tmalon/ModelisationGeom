@@ -133,7 +133,7 @@ function init() {
 
     pts = []
 
-    mode = 0
+    mode = 1
     mode_t = 0
 
     clicked = {"down": false, "up": false, "right": false, "idx_pt": -1}
